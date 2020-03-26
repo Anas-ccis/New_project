@@ -1,1 +1,3 @@
 Welcome My paje
+Spell checker to review errors
+Interested in software development
